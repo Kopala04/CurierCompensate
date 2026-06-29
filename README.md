@@ -8,7 +8,7 @@ A simple web app for calculating venue pick-up, cancellation, and customer laten
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
 4. Choose the `main` branch and the `/ (root)` folder.
-5. Save. Your site will be available at `https://kopala04.github.io/SalaryCalculator/`.
+5. Save. Your site will be available at `https://kopala04.github.io/CurierCompensate/`.
 
 ## Local preview
 
