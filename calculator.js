@@ -3,7 +3,7 @@ function calculateVenuePickupLate(pickUpDistanceKm) {
     return 0.5;
   }
 
-  return 0.8 + Math.floor(pickUpDistanceKm - 2) * 0.4;
+  return 0.8 + (pickUpDistanceKm - 2) * 0.4;
 }
 
 function calculateLateness(latenessMinutes, baseCompensation, increment) {
