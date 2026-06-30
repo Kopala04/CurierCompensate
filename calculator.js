@@ -24,8 +24,8 @@ function calculateLateness(latenessMinutes, baseCompensation, increment) {
 const calculatorOptions = [
   {
     id: 'venue-pickup-late',
-    title: 'Venue Pick Up - Late',
-    inputLabel: 'Pick-up distance',
+    title: 'Cancellation + Distance',
+    inputLabel: 'Cancellation + Distance',
     inputUnit: 'km',
     inputStep: '0.1',
   },
